@@ -26,5 +26,12 @@
         "image": "viking.svg",
         "description": "Viking sticker",
         "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "Mouse",
+        "image": "test.jpg",
+        "description": "Mouse sticker",
+        "price": 24.99
     }
 ]
